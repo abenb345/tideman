@@ -1,6 +1,10 @@
 # tideman
+TODO: clean code, comment code
+
+
 
 User enters number of voters and rank their chosen candidates.. program will display winner using tideman method
+
 
 Tideman voting system:
 - Ranked choice system
